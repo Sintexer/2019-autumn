@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Lab9_STL"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/Projects/Lab9-STL/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Projects/Lab9-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Projects/Lab9-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Projects/Lab9-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Projects/Lab9-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Lab9_STL">
+				<Option output="D:/Projects/Lab9-STL/cmake-build-debug/Lab9_STL.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Projects/Lab9-STL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Projects/Lab9-STL/."/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Projects/Lab9-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 Lab9_STL"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Projects/Lab9-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Projects/Lab9-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Projects/Lab9-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Lab9_STL/fast">
+				<Option output="D:/Projects/Lab9-STL/cmake-build-debug/Lab9_STL.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Projects/Lab9-STL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Projects/Lab9-STL/."/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Projects/Lab9-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 Lab9_STL/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Projects/Lab9-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Projects/Lab9-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Projects/Lab9-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/Projects/Lab9-STL/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Projects/Lab9-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Projects/Lab9-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Projects/Lab9-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Projects/Lab9-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/Projects/Lab9-STL/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Projects/Lab9-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Projects/Lab9-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Projects/Lab9-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Projects/Lab9-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/Projects/Lab9-STL/Asteroid.cpp">
+			<Option target="Lab9_STL"/>
+		</Unit>
+		<Unit filename="D:/Projects/Lab9-STL/Asteroid.h">
+			<Option target="Lab9_STL"/>
+		</Unit>
+		<Unit filename="D:/Projects/Lab9-STL/BlackHole.cpp">
+			<Option target="Lab9_STL"/>
+		</Unit>
+		<Unit filename="D:/Projects/Lab9-STL/BlackHole.h">
+			<Option target="Lab9_STL"/>
+		</Unit>
+		<Unit filename="D:/Projects/Lab9-STL/Bolid.cpp">
+			<Option target="Lab9_STL"/>
+		</Unit>
+		<Unit filename="D:/Projects/Lab9-STL/Bolid.h">
+			<Option target="Lab9_STL"/>
+		</Unit>
+		<Unit filename="D:/Projects/Lab9-STL/Comet.cpp">
+			<Option target="Lab9_STL"/>
+		</Unit>
+		<Unit filename="D:/Projects/Lab9-STL/Comet.h">
+			<Option target="Lab9_STL"/>
+		</Unit>
+		<Unit filename="D:/Projects/Lab9-STL/Exc.cpp">
+			<Option target="Lab9_STL"/>
+		</Unit>
+		<Unit filename="D:/Projects/Lab9-STL/Exc.h">
+			<Option target="Lab9_STL"/>
+		</Unit>
+		<Unit filename="D:/Projects/Lab9-STL/File.cpp">
+			<Option target="Lab9_STL"/>
+		</Unit>
+		<Unit filename="D:/Projects/Lab9-STL/File.h">
+			<Option target="Lab9_STL"/>
+		</Unit>
+		<Unit filename="D:/Projects/Lab9-STL/Interface.cpp">
+			<Option target="Lab9_STL"/>
+		</Unit>
+		<Unit filename="D:/Projects/Lab9-STL/Interface.h">
+			<Option target="Lab9_STL"/>
+		</Unit>
+		<Unit filename="D:/Projects/Lab9-STL/Meteor.cpp">
+			<Option target="Lab9_STL"/>
+		</Unit>
+		<Unit filename="D:/Projects/Lab9-STL/Meteor.h">
+			<Option target="Lab9_STL"/>
+		</Unit>
+		<Unit filename="D:/Projects/Lab9-STL/OutputTable.cpp">
+			<Option target="Lab9_STL"/>
+		</Unit>
+		<Unit filename="D:/Projects/Lab9-STL/OutputTable.h">
+			<Option target="Lab9_STL"/>
+		</Unit>
+		<Unit filename="D:/Projects/Lab9-STL/Planet.cpp">
+			<Option target="Lab9_STL"/>
+		</Unit>
+		<Unit filename="D:/Projects/Lab9-STL/Planet.h">
+			<Option target="Lab9_STL"/>
+		</Unit>
+		<Unit filename="D:/Projects/Lab9-STL/SpaceObject.cpp">
+			<Option target="Lab9_STL"/>
+		</Unit>
+		<Unit filename="D:/Projects/Lab9-STL/SpaceObject.h">
+			<Option target="Lab9_STL"/>
+		</Unit>
+		<Unit filename="D:/Projects/Lab9-STL/Star.cpp">
+			<Option target="Lab9_STL"/>
+		</Unit>
+		<Unit filename="D:/Projects/Lab9-STL/Star.h">
+			<Option target="Lab9_STL"/>
+		</Unit>
+		<Unit filename="D:/Projects/Lab9-STL/Sun.cpp">
+			<Option target="Lab9_STL"/>
+		</Unit>
+		<Unit filename="D:/Projects/Lab9-STL/Sun.h">
+			<Option target="Lab9_STL"/>
+		</Unit>
+		<Unit filename="D:/Projects/Lab9-STL/main.cpp">
+			<Option target="Lab9_STL"/>
+		</Unit>
+		<Unit filename="D:/Projects/Lab9-STL/pch.h">
+			<Option target="Lab9_STL"/>
+		</Unit>
+		<Unit filename="D:/Projects/Lab9-STL/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

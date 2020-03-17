@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Asteroid">
+    <Position X="1.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIAAAAAAAAABAQAACyAAAAAAQBABAAAgAAAAAAA=</HashCode>
+      <FileName>Asteroid.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BlackHole">
+    <Position X="5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQAAIAAAAAAAAAAAQAAAQAAARABQBAAAAAgAAAABAA=</HashCode>
+      <FileName>BlackHole.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bolid">
+    <Position X="0.5" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIAAAAAAAABAAQAEAQAAEAAAQBAAAAAgAAAQACA=</HashCode>
+      <FileName>Bolid.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Comet">
+    <Position X="2.75" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAIIAAAAAAAAAgAQAAAYAABgBAQBAICAAgAAAAAAA=</HashCode>
+      <FileName>Comet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exc">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAABABAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exc.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exc_input">
+    <Position X="12.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEBAAAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Exc.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interface&lt;T&gt;" Collapsed="true">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Meteor">
+    <Position X="0.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIAAAAAAQAQAAQEAAQAAAEAAQBAEAAAgBAAAAEA=</HashCode>
+      <FileName>Meteor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OutputTable" Collapsed="true">
+    <Position X="14.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEEIAAIQhYAAAAAAAIAAAAAAAAAIAAIAAgAAAAAAACI=</HashCode>
+      <FileName>OutputTable.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Planet">
+    <Position X="9.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIBAAAAAAAAgAYAgAQgAAIQKQBAIAgIgAAAAoAg=</HashCode>
+      <FileName>Planet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlanetRow">
+    <Position X="12.25" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQICAoAAAAgAQYAAAQAAAAEgQiCACAAAAAAAAAA=</HashCode>
+      <FileName>PlanetRow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlanetSystem">
+    <Position X="7.25" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAAAAAAAAAAAAAAAAAAAAAAEAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PlanetSystem.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceObject">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQAgMAACAAAAAAAAQAQgQAIAAAAQBCAAAgggAACAAA=</HashCode>
+      <FileName>SpaceObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Star">
+    <Position X="7.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAMAAACAAQAAAAQAAAQAAAAAAYBEWgAAgAAAAAAA=</HashCode>
+      <FileName>Star.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sun">
+    <Position X="7.25" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIAAAAAAAAAACQQAAQAAAAAAQBAAAAAggAAIAAQ=</HashCode>
+      <FileName>Sun.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tree&lt;T&gt;" Collapsed="true">
+    <Position X="16.5" Y="1.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="Tree&lt;T&gt;::Node&lt;N&gt;" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Tree.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="Tree&lt;T&gt;::iterator" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Tree.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAgACGAADCAAACAIAgAoBSAAAAAAAADAAAQQAEAAA=</HashCode>
+      <FileName>Tree.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Comparator" Collapsed="true">
+    <Position X="14.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAACAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TreeAlgorithm.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

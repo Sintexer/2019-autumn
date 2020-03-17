@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Projects/Lab 6 - Binary Tree/Tree.cpp
+Tree.h
+D:/Projects/Lab 6 - Binary Tree/Tree.h
+
+D:/Projects/Lab 6 - Binary Tree/Tree.h
+iostream
+-
+utility
+-
+
+D:/Projects/Lab 6 - Binary Tree/main.cpp
+iostream
+-
+Tree.h
+D:/Projects/Lab 6 - Binary Tree/Tree.h
+
